@@ -1,24 +1,38 @@
 CHECKLIST DE VIAGEM - VIAGE BEM
 
 ## Documentos Essenciais
--[ ] Passaporte/visto
--[ ] Cartão de vacina
+-[x] Passaporte/visto
+-[x] Cartão de vacina
 -[ ] Seguro viagem
 -[ ] Reservas de hospedagem
 
 ## Súde e Medicamentos
--[ ] Medicamentos pessoais
+-[x] Medicamentos pessoais
 -[ ] Kit Primeiros socorros
--[ ] Protetor solar
+-[x] Protetor solar
 
 ## Vestuário
--[ ] Roupas por clima
--[ ] Calçados confortaveis
--[ ] Roupas de dormir
--[ ] Acessórios (óculos, chapeu)
+-[x] Roupas por clima
+-[x] Calçados confortaveis
+-[x] Roupas de dormir
+-[x] Acessórios (óculos, chapeu)
 
 ## Tecnologia
--[ ] Carregadores portáteis
+-[x] Carregadores portáteis
 -[ ] Adaptadores de tomada
--[ ] Powerbank 
+-[x] Powerbank 
 -[ ] Cabos USB
+
+## Verificações finais
+-[x] Notificar banco sobre viagem
+-[x] Baixar mapas offline
+-[ ] Confirmar check-in online
+-[x] Verificar previsão do tempo
+-[ ] outros
+
+## TUDO PRONTO!!!
+# Tenha uma excelente viagem!
+
+-[ ] 
+-[ ] 
+-[ ]
