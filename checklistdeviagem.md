@@ -10,3 +10,15 @@ CHECKLIST DE VIAGEM - VIAGE BEM
 -[ ] Medicamentos pessoais
 -[ ] Kit Primeiros socorros
 -[ ] Protetor solar
+
+## Vestuário
+-[ ] Roupas por clima
+-[ ] Calçados confortaveis
+-[ ] Roupas de dormir
+-[ ] Acessórios (óculos, chapeu)
+
+## Tecnologia
+-[ ] Carregadores portáteis
+-[ ] Adaptadores de tomada
+-[ ] Powerbank 
+-[ ] Cabos USB
